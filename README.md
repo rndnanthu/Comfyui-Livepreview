@@ -2,6 +2,9 @@
 
 A real-time monitoring tool for ComfyUI workflows that displays live previews and tracks execution progress.
 
+
+![Screenshot](https://iili.io/KbMutHB.md.png)
+
 ## Overview
 
 ComfyUI Tracker is a Python application that:
